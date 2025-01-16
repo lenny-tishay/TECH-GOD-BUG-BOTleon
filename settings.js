@@ -26,10 +26,10 @@ global.author = 'Bugbot\n\nContact: +254755432852'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Youtube Tech God."
+global.wm = "."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
+global.link = 'https://www.instagram.com/lenny_tishay?igsh=NmtjbW14NGFpZjV3'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -60,7 +60,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 global.mess = {
     done: 'Done !',
     prem: 'This feature can be used by Leon or premium user ',
-    admin: 'This feature can be used by Tech god or admy',
+    admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the a group admin ',
     owner: 'This is for owner only',
     group: 'This feature is only for groups',
